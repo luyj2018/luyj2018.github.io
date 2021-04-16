@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "My Blog"
 title_separator          : "-"
-name                     : &name "Netsmaster"
+name                     : &name "Nets Master"
 description              : &YL "YL"
 url                      : https://luyj2018.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
